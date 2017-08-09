@@ -1,2 +1,5 @@
-hghjgjh,h
-jhjkhkh
+#include <stdio.h>
+void main()
+{
+printf("hello");
+}
